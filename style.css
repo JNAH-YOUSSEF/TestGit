@@ -2,6 +2,14 @@
      border:  1px solid black;
      width: max-content;
      display: flex;
+     padding: 1rem;
      flex-direction: column;
      justify-content: center;
+     align-items: center;
+
+
+
+     button {
+           width: 50px;
+     }
 }
