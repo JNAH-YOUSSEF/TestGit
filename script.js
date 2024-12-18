@@ -20,3 +20,11 @@ input.addEventListener('change', (e) => {
     
     e.target.nextElementSibling.innerHTML = e.target.value
 })
+
+
+
+
+function Hide() {
+      let h1 = document.querySelector('#h1') 
+      h1.classList.toggle('hide')
+}

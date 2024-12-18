@@ -13,3 +13,9 @@
            padding: 1rem;
      }
 }
+
+
+
+.hide {
+      visibility: hidden;
+}
